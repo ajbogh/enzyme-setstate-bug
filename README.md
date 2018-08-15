@@ -1,5 +1,8 @@
 # enzyme-setstate-bug
 
+This git project shows the issue described in this ticket:
+https://github.com/airbnb/enzyme/issues/1755
+
 ## Instructions:
 
 1) Clone project to your local environment
